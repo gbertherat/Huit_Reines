@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "fonctions.h"
 
 int main(void) {
-  printf("Hello World\n");
-  return 0;
+  int size = 8;
+	int solution[size];
 }
