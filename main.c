@@ -44,6 +44,6 @@ int main(void) {
 	scanf("%s", filename);
 
 	search(solution, listSize, 0, listSize, 8*8, 0, 0, function, filename);
-
+	
 	return 0;
 }
